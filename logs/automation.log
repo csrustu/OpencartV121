@@ -1,0 +1,29 @@
+00:44:10.948 [main] INFO  testCases.TC002_LoginTest - Log into the application
+00:44:12.030 [main] INFO  testCases.TC002_LoginTest - Verify MyAccount page after Login
+00:44:12.088 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_Login *****
+20:43:22.571 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chait\Documents\Java_WS\OpencartV121\master.xml"
+20:43:27.869 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+20:43:27.996 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+20:43:28.311 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:43:28.311 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details
+20:43:30.807 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:43:30.871 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+20:43:30.871 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+20:43:33.933 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_Login *****
+20:43:33.933 [main] INFO  testCases.TC002_LoginTest - Navigate to Login page from Homepage
+20:43:34.339 [main] INFO  testCases.TC002_LoginTest - Log into the application
+20:43:35.356 [main] INFO  testCases.TC002_LoginTest - Verify MyAccount page after Login
+20:43:35.412 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_Login *****
+20:50:55.985 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chait\Documents\Java_WS\OpencartV121\master.xml"
+20:51:00.046 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+20:51:00.160 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+20:51:00.501 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:51:00.506 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details
+20:51:03.182 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:51:03.248 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+20:51:03.248 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+20:51:06.452 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_Login *****
+20:51:06.452 [main] INFO  testCases.TC002_LoginTest - Navigate to Login page from Homepage
+20:51:06.815 [main] INFO  testCases.TC002_LoginTest - Log into the application
+20:51:09.185 [main] INFO  testCases.TC002_LoginTest - Verify MyAccount page after Login
+20:51:09.236 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_Login *****
